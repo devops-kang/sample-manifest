@@ -41,6 +41,6 @@ spec:
   serviceRef:
     name: sample-service
     port: 80
-  targetGroupARN: arn:aws:elasticloadbalancing:ap-northeast-1:017820700896:targetgroup/stella-stell-2BDMYJYJTYL1/ab50809af2a04c22
+  targetGroupARN: arn:aws:elasticloadbalancing:ap-northeast-1:017820700896:targetgroup/stella-stell-LJDHBFYNMZBB/b1d1353ddab3087f
 
 
